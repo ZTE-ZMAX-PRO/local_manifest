@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-16.0"/> 
+  <project name="ZTE-ZMAX-PRO/android_device_zte_urd" path="device/zte/urd" remote="github" revision="lineage-16.0" />
+  <project name="ZTE-ZMAX-PRO/vendor_zte_urd" path="vendor/zte/urd" remote="github" revision="lineage-16.0" />
+  <project name="ZTE-ZMAX-PRO/android_kernel_zte_urd" path="kernel/zte/urd" remote="github" revision="lineage-16.0" />
+</manifest>
